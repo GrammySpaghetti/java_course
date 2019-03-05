@@ -1,0 +1,30 @@
+Data Types
+Primitive Types
+Here are the most-used primitive types in Java:
+
+int: An int holds integers, like 4 or -51. It is limited to numbers between -2147483648 and 2147483647, or around 2 billion.
+long: These are for larger integers up to 2^63, or around 2 quintillion.
+boolean: A boolean represents one of two values: true or false.
+double:  Doubles are for floating point numbers like 3.14159265. We will use double rather than float almost exclusively, because they are far more precise.
+char: The char data type is used to store a single character, like '$' or 'A'.
+Object Types
+In addition to the primitive data types, the Java programming language also has object types. Some examples:
+
+Integer: The Integer class wraps a value of the primitive type int into an object.
+Long: The Long class wraps a value of the primitive type long in an object.
+Boolean: The Boolean class wraps a value of the primitive type boolean in an object.
+Double: The Double class wraps a value of the primitive type double in an object.
+Character: The Character class wraps a value of the primitive type char in an object.
+String: Represents a sequence of characters, like a Python string.
+BigInteger: Represents an integer that can be any size at all.
+Notice that primitive types are lowercase, while object types are capitalized.
+
+Type	Size in Bytes	Range
+byte	1 byte	-128 to 127
+short	2 bytes	-32,768 to 32,767
+int	4 bytes	-2,147,483,648 to 2,147,483, 647
+long	8 bytes	-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+float	4 bytes	approximately ±3.40282347E+38F
+double	8 bytes	approximately ±1.79769313486231570E+308
+char	2 bytes	0 to 65,536
+boolean	n/a	true of false
