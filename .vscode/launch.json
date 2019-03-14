@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PuzzleJavaTest",
+            "request": "launch",
+            "mainClass": "PuzzleJavaTest",
+            "projectName": "java_course_910946be"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringManipulationTest",
+            "request": "launch",
+            "mainClass": "StringManipulationTest",
+            "projectName": "java_course_910946be"
+        }
+    ]
+}
