@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* *{
+	margin: 0px;
+	padding: 0px;
+} */
+h1{
+	color: blue;
+}
+#one{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: blue;
+
+}
+#two{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: green;
+}
